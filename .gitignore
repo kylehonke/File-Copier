@@ -4,4 +4,4 @@
 #unignore files to be tracked
 !README.md
 !.gitignore
-FileCopier.java
+!FileCopier.java
