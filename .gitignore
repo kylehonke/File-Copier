@@ -1,0 +1,6 @@
+#ignore everything
+*
+
+#unignore files to be tracked
+!README.md
+!.gitignore
