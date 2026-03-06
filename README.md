@@ -2,6 +2,8 @@
 
 A Java command line application that securely copies the contents of a source file to a destination file using byte streams. 
 
+---
+
 ## Features
 * Validates the existence of the source file prior to execution.
 * Utilizes Java byte streams for efficient data transfer.
