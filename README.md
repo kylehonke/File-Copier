@@ -1,5 +1,5 @@
 # File Copier Utility
----
+
 A Java command line application that securely copies the contents of a source file to a destination file using byte streams. 
 
 ## Features
